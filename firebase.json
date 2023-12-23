@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "simple-crm2",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "europe-west1"
+      }
+    }
+  ]
+}
